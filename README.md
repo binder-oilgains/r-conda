@@ -1,12 +1,12 @@
 # r-conda
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/f0nzie/r-conda/main?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-oilgains/r-conda/main?urlpath=rstudio)
 
-> R and RStudio in repo2docker without waiting for packages to compile!
+> R and RStudio in `repo2docker` without waiting for packages to compile!
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/f0nzie/r-conda/main?filepath=index.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-oilgains/r-conda/main?filepath=index.ipynb)
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/f0nzie/r-conda/main?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-oilgains/r-conda/main?urlpath=rstudio)
 
 Binder supports using R and RStudio, with libraries pinned to a specific versions.
 
